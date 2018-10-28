@@ -1,5 +1,5 @@
 # trec_eval.exe
-Windows version of trec_eval
+Pre-Compiled Windows version of trec_eval :
 
 1-Download the two files in the same directory 
 
